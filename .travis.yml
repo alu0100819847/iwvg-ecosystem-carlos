@@ -1,0 +1,14 @@
+
+language: java
+branches:
+  only:
+    - develop
+    - /^release-[0-999].[0-999]$/
+    - master
+notifications:
+  email:
+    recipients:
+      - alu0100819847@ull.edu.es
+script:
+  #Test unitario y de integracion con cobertura (jacoco)
+  - mvn org.jacoco:jacoco-maven-plugin:prepare-agent verify
