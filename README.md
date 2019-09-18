@@ -3,6 +3,7 @@
 > Plantilla con Spring básico (API, test) 
 
 ## Estado del Código
+[![Build Status](https://travis-ci.org/alu0100819847/iwvg-ecosystem-carlos.svg?branch=develop)](https://travis-ci.org/alu0100819847/iwvg-ecosystem-carlos)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=es.upm.miw%3Aiwvg-ecosystem-carlos&metric=alert_status)](https://sonarcloud.io/dashboard?id=es.upm.miw%3Aiwvg-ecosystem-carlos)
 
 ## Ecosistema
